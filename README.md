@@ -56,7 +56,7 @@ npm install
 # 4. Start development server
 npm run dev
 ### Live Demo  
-Live version deployed at: https://smart-version-tracker.lovable.dev  
+Live version deployed at: https://mini-audit-scribe.lovable.app
 User edits text
        │
        ▼
@@ -91,7 +91,3 @@ Client can GET /versions to fetch all versions
        ▼
 Frontend displays the version history panel with the full edit history
 
----
-
-If you like, I can also **add a ready-to-copy license snippet (MIT or Apache)** and a **sample badge header** (for GitHub) to make it look more professional. Want me to include those now?
-::contentReference[oaicite:2]{index=2}
